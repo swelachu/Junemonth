@@ -19,6 +19,8 @@ public class BrowserLaunch {
 		 login.click();
 		 System.out.println("swetha");
 		 System.out.println("kaviniya");
+		 System.out.println("swetha");
+		 System.out.println("kaviniya");
 		 
 		 
 		

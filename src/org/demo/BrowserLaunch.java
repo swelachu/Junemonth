@@ -18,7 +18,9 @@ public class BrowserLaunch {
 		 WebElement login = driver.findElement(By.name("login"));
 		 login.click();
 		 System.out.println("swetha");
-		 System.out.println("Kaviniya");
+		 System.out.println("kaviniya");
+		 
+		 
 		
 		
 	}
